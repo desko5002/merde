@@ -5,5 +5,6 @@ public class Workshop {
 
         unePersonne.direBonjour();
         unePersonne.direBonsoir();
+        String MERE ="jodom";
     }
 }
